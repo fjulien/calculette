@@ -1,0 +1,16 @@
+.boutons{
+    font-size: 4em !important;
+    width: 100%;
+    color: darkorange !important;
+    transition: 0.5s;
+}
+
+.ligne{
+    margin-top:20px;
+}
+
+.boutons:hover{
+    color: blueviolet !important;
+    transition: 0.5s;
+    
+}

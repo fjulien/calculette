@@ -1,0 +1,22 @@
+.History{
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.zoom{
+    transition: 2s;
+    color: rgb(199, 199, 199);
+     background-color: rgba(255, 255, 255, 0);
+}
+
+ .zoom:hover{
+    font-size: 5em;
+    transition: 2s;
+    color: black;
+   background-color: rgba(106, 255, 255, 0.842);
+   border-radius: 1000px;
+}
+
+li{
+    list-style: none;
+}
