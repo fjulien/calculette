@@ -1,6 +1,6 @@
 #  Projet Calculette.
 
-### Link gitPage  :
+### Link gitPage  : [Calculette](https://fjulien.github.io/Calculette/ "Calculette")
 
 ## For the devs you must install : 
 - npm : `npm i`
