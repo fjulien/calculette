@@ -1,8 +1,8 @@
 #  Projet Calculette.
 
-### Link gitPage  :
+### Link gitPage  : [Calculette](https://fjulien.github.io/Calculette/ "Calculette")
 
-## For the devs you must install : [Calculette](https://fjulien.github.io/Calculette/ "Calculette")
+## For the devs you must install : 
 - npm : `npm i`
 
 - npm reactstrap : `npm install bootstrap --save  --save reactstrap react react-dom`
